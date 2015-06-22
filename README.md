@@ -5,16 +5,16 @@ NUWORKS developers reference
 
 ![alt tag](https://nuworks.basecamphq.com/companies/1838427/logo.gif)
 
-FRONT-END LAD's
+FRONT-END RELATED
 ===
 * [Codrops](http://tympanus.net/codrops/)
 
 
 
-BACK-END LAD's
+BACK-END RELATED
 ===
 
 
-GENERAL
+GENERAL(Computer Science)
 ===
 * [TheNewBoston](https://www.thenewboston.com/)
