@@ -8,7 +8,7 @@ Collection of NW Interactive developers including website reference, LAD's, etc.
 
 FRONT-END LAD's
 ===============
-[Codrops](http://tympanus.net/codrops/)
+*[Codrops](http://tympanus.net/codrops/)
 
 
 
@@ -16,5 +16,6 @@ BACK-END LAD's
 ==============
 
 
-#GENERAL
-[TheNewBoston](https://www.thenewboston.com/)
+GENERAL
+===
+*[TheNewBoston](https://www.thenewboston.com/)
