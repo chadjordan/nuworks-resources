@@ -1,6 +1,7 @@
 Nuworks-resources
 ===
-Collection of NW Interactive developers including website reference, LAD's, etc.
+
+NUWORKS developers reference
 
 ![alt tag](https://nuworks.basecamphq.com/companies/1838427/logo.gif)
 
