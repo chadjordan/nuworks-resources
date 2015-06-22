@@ -7,10 +7,13 @@ Collection of NW Interactive developers including website reference, LAD's, etc.
 ```
 
 #FRONT-END LAD's
-```
-<a href="http://tympanus.net/codrops/">Codrops</a>
-```
+[Codrops](http://tympanus.net/codrops/)
 
 
 
 #BACK-END LAD's
+
+
+
+#GENERAL
+[TheNewBoston](https://www.thenewboston.com/)
